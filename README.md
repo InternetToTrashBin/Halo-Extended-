@@ -4,7 +4,7 @@ What's inside:
 • Custom color changes: Freshly tweaked colors layered over the classic glowing 3D spiral animation.
 • Built with Claude AI: Legacy Android 4.4 compatibility fixes, manifest updates, and packaging assisted by Claude.
 • Clean & lightweight: Just the live wallpaper—no ads, no tracking, and no extra permissions.
-Version: 1.0 (swap in your exact version number)
+Version: 1.0
 How to set it:
 1. Install the .apk file on your device.
 2. Open your phone's Wallpaper settings and go to Live Wallpapers.
